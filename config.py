@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # OpenAI API configuration
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") # From .env file
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
 
 # Aspen Plus configuration

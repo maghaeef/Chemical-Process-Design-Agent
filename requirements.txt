@@ -1,5 +1,5 @@
 openai>=1.0.0
-python-dotenv>=1.0.0
+python-dotenv>=1.0.0 # For reading .env file
 pydantic>=2.0.0
 numpy>=1.20.0
 pandas>=2.0.0
