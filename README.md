@@ -146,3 +146,9 @@ python main.py --raw-materials path/to/raw_materials.json --specifications path/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+- GitHub: [@maghaeef](https://github.com/maghaeef)
+- LinkedIn: [mohammad-aghaee](https://www.linkedin.com/in/mohammad-aghaee/)
+- Project Link: [https://github.com/maghaeef/Chemical-Process-Design-Agent](https://github.com/maghaeef/Chemical-Process-Design-Agent)
